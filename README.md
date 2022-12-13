@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mashael</h1>
 <h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
 
-<img align="right" alt="Coding width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashael14180&label=Profile%20views&color=0e75b6&style=flat" alt="mashael14180" /> </p>
 
